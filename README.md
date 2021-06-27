@@ -1,2 +1,0 @@
-# RFbased
-RFcoalmine
